@@ -14,4 +14,11 @@
 ## My night
 1. I come home and cook a nice din
 2. I play videogames on Steam
-3. I
+3. I spend a few hours working on new music
+4. I turn on some Youtube to fall asleep on
+---
+## My hobbies
+1. I love and play a variety of videogames
+2. I make and sell beats through a platform called Beatstars
+3. I like to play basketball
+4. I love candy
