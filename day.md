@@ -22,3 +22,4 @@
 2. I make and sell beats through a platform called Beatstars
 3. I like to play basketball
 4. I love candy
+##### > Finding a good hobby helped me get through tough times
