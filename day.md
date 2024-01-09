@@ -18,8 +18,8 @@
 4. I turn on some Youtube to fall asleep on
 ---
 ## My hobbies
-1. I love and play a variety of videogames
-2. I make and sell beats through a platform called Beatstars
-3. I like to play basketball
-4. I love candy
+- I love and play a variety of videogames
+- I make and sell beats through a platform called Beatstars
+- I like to play basketball
+- I love candy
 ##### > Finding a good hobby helped me get through tough times
