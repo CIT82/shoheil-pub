@@ -4,3 +4,14 @@
 1. I wake up to a hot shower
 2. I listen to 90's R&B and oldies while I organize my room
 3. I head out to my workplace
+##### I am not a breakfast person...
+---
+## My afternoon
+1. I make phone calls to family and friends on my break
+2. I eat lunch
+3. I listen to my beats and analyze them
+---
+## My night
+1. I come home and cook a nice din
+2. I play videogames on Steam
+3. I
