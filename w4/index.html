@@ -4,8 +4,46 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Week 4 - 3 HTML elements</title>
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    Testing
+
+<header class="head">
+    <h1>Red Velvet</h1>
+    <h2>Denzlo Beats</h2>
+</header>
+
+<section class="section1">
+    <label for="name">Enter Your Username (8 to 16 characters):</label>
+    <input type="text" id="name" name="name" required minlength="8" maxlength="16" size="10" />
+</section>
+
+<section class="section2">
+    <fieldset>
+        <legend>What is the best cake?</legend>
+      
+        <input type="radio" id="Red Velvet" name="Cake" value="A" />
+        <label for="Red Velvet">Red Velvet</label><br />
+      
+        <input type="radio" id="Carrot Cake" name="Cake" value="B" />
+        <label for="Carrot Cake">Carrot Cake</label><br />
+      
+        <input type="radio" id="Chocolate Cake" name="Cake" value="C" />
+        <label for="Chocolate Cake">Chocolate Cake</label>
+      </fieldset>
+</section>
+
+<p class="section3">
+    I used <strong class="strongmod">label</strong> and <strong class="strongmod">input</strong> on the part asking for your username.
+</p>
+
+<p class="section3">
+    I used <strong class="strongmod">fieldset</strong> and <strong class="strongmod">legend</strong> on the part asking to choose the best cake.
+</p>
+
+<p class="section3">
+    I used <strong class="strongmod">strong</strong> on the last part to highlight words that indicate strong importance, seriousness, or urgency. It is rendered bold.
+</p>
+
 </body>
 </html>
