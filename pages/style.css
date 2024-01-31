@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(0, 60, 139);
+    color: rgb(255, 255, 255);
+    padding: 10px 0px;
+    /* border: 10px blue dashed;  */
+}
+
+main {
+    margin: 15px;
+    padding: 15px;
+    background-color: rgb(0, 60, 139);
+}
+
+footer {
+    background-color:cornflowerblue;
+    color: white;
+    padding: 10px 0;
+}
+
+label {
+    display: block;
+}
+
+.outline {
+    border: 2px black solid
+}
+
+.nobullet {
+    list-style-type: none;
+}
+
+.nobulletstyle {
+    list-style-type: none;
+    color:rgb(255, 255, 255);
+}
+
+.closebullet {
+    list-style-position: inside;
+    color:rgb(255, 255, 255);
+}
+
+a {
+    color: white;
+}
