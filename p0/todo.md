@@ -1,20 +1,17 @@
-- [-] Change website title
+- [+] Change website title
 - [-] Remove "Packages" from navbar and others, in order to narrow it down
-- [-] Change main page backgrond carousel pictures
-- [-] Remove "Search" bar from main page
-- [-] Keep "About Us" but change site services to things like "Trip Guidance"
-- [-] Modify popular destinations and include Japan, change the majority of the pictures
+- [+] Change main page backgrond carousel pictures
+- [+] Remove "Search" bar from main page
+- [+] Keep "About Us" but change site services to things like "Trip Guidance"
+- [+] Modify popular destinations and include Japan, change the majority of the pictures
 - [-] Link all tours to other pages with information about that specific place
-- [-] Remove all pricing and make website based around navigation to other sites that offer it
 - [-] Keep some of the tours but remove tours like "Sport Tour"
-- [-] Remove "Online Booking" completely
-- [-] Change travel guide pictures and provide names, but remove social media buttons
-- [-] Will provide links to travel blogs
-- [-] Modify the"Testimonial" part of the website and create fictional feedback with star ratings out of 5
-- [-] Remove Newsletter
-- [-] Will modify get in touch but make it fictional and remove social media buttons
-- [-] Remove language options and make it so the site only shows in english
+- [+] Change travel guide pictures and provide names, but remove social media buttons
+- [+] Will provide links to travel blogs
+- [+] Modify the"Testimonial" part of the website and create fictional feedback with star ratings out of 5
+- [+] Will modify get in touch but make it fictional and remove social media buttons
+- [+] Remove language options and make it so the site only shows in english
 - [-] Remove all payment icons
 - [-] Remove most of the support options
 - [-] Remove Email input
-- [-] Change all "lorem" text
+- [+] Change all "lorem" text
